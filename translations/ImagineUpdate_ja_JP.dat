@@ -1,0 +1,6 @@
+[Setting]
+BaseURL1 = http://towerofguardian.site/updater-jp
+Information = http://towerofguardian.site/texture.html 
+
+[Custom]
+DisableBlacklists = True

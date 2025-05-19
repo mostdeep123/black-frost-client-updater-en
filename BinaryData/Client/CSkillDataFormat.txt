@@ -1,0 +1,59 @@
+; MiCSkillData
+	; MiCSkillBase
+	ind	u32
+	string
+	string
+	ind u16
+	ind u8
+	ind u8
+	; MiCSkillCast
+	ind u16
+	ind u16
+	ind u16
+	ind u16
+	ind u8
+	ind u8
+	ind u16
+	ind f32
+	ind	u32
+	ind	u32
+	ary	string 20
+	; MiCSkillShoot
+	ind	f32
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	f32
+	string
+	ary	string 20
+	; MiCSkillBullet
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind f32
+	ind f32
+	ind	u32
+	string
+	ary	u8 3
+	ind	u8
+	string
+	; MiCSkillTarget
+	ind	u32
+	ind f32
+	ind	u8
+	ind	u8
+	ind	u16
+	ary	string 20
+	; MiCSkillHit
+	ind	f32
+	ind	u8
+	ind	u8
+	ind	u16
+	ind	f32
+	ind	f32
+	ind f32
+	;MiCSkillEquipCategory
+	ary	MiCSkillEquipCategory 20
+	ary	string 400

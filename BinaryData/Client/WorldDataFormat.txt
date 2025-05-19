@@ -1,0 +1,11 @@
+; MiWorldData
+	ind	u32
+	ind	u32
+	list_begin	MiCreateAreaIdTbl
+		mmb	u32
+	list_end
+	list_begin	MiChannelTbl
+		mmb	u32
+		mmb	u32
+		mma	s8 36
+	list_end

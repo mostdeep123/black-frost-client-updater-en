@@ -1,0 +1,3 @@
+; MiActionLogicData
+	ind	u32
+	ary MiActionTblData 14

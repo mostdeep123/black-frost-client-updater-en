@@ -1,0 +1,11 @@
+; MiKeyItemData
+	ind	u8
+	ind	u8
+	ind	u16
+	ary	s8	36
+	ary	s8	260
+	; MiKeyItemSortData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8

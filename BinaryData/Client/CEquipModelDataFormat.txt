@@ -1,0 +1,3 @@
+; MiCEquipModelData
+	ind u32
+	ary MiCEquipModelProcInfo 26

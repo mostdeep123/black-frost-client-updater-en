@@ -1,0 +1,86 @@
+; MiZoneBasicData
+	ind	u32
+	ary	s8 36
+	ind	u8
+	ind	u8
+	ind	u16
+	ind	u32
+	ind	u32
+	ind	u32
+; MiZoneFileData
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+;MiZoneClientData
+	; MiZoneFogData
+		ind	u8
+		ary	u8 3
+		ind f32
+		ind f32
+		ind	u8
+		ary	u8 3
+		ind f32
+		ind f32
+	; MiZoneCameraData
+		ind f32
+	; MiZoneSkyData
+		ind	u8
+		ind	u8
+		ind	u16
+		ary	s8 36
+		ary	s8 36
+		ary	s8 36
+		ary	s8 36
+		ary	s8 36
+		ary	s8 36
+		ary	s8 36
+		ary	s8 36
+	; MiZoneGouraudData
+		ind	u8
+		ind	u8
+		ind	u16
+		ind f32
+		ind f32
+		ind f32
+		ind f32
+		ind f32
+		ind f32
+		ind f32
+		ind f32
+	; MiZoneLensFlareData
+		ind	u8
+		ind	u8
+		ind	u16
+		ind f32
+		ary MiZoneLensFlareLayerData 7
+	; MiZoneBGMData
+		ind	u32
+		ind	u32
+	; MiZoneOtherData
+		ary f32 2
+		ary f32 2
+		ind f32
+		ary f32 3
+		ary f32 3
+		ind f32
+		ind f32
+		ind f32
+		ind f32
+		ind f32
+		ind f32

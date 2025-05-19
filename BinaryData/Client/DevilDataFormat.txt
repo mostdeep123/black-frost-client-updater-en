@@ -1,0 +1,71 @@
+; MiNPCBasicData
+	ind	u32
+	ary	s8	36
+	ind	s16
+	ind	u16
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	s16
+	ind	s16
+; ƒ‚ƒfƒ‹‚h‚c 
+	ind	u32
+; MiDCategoryData
+	ind	u8
+	ind	u8
+	ind	u16
+; MiAIRelationData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+; MiNegotiationData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+; MiSummonData
+	ind	u32
+	ind	u8
+	ind	u8
+	ind	u16
+; MiUnionData
+	ind	u8
+	ind	u8
+	ind	u16
+	ind	u32
+	ary f32 5
+; MiGrowthData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u16
+	ind	u16
+	ary	u32	8
+	ary	u32	8
+	ary	u32	4
+	ary	MiAcquisitionSkillData	16
+; ”„‚èŽqƒZƒŠƒt
+	ary	s8	68
+	ary	s8	68
+	ary	s8	68
+	ary	s8	68
+	ary	s8	68
+	ary	s8	68
+	ary	s8	68
+	ary	s8	68
+; MiDevilBattleData
+	ind	u32
+	ind	u32
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ary	s16	125
+	ind s16
+	ary	s32	1
+; MiDevilFamiliarityData
+	ind s32
+	ind s32

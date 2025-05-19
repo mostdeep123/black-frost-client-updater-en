@@ -1,0 +1,8 @@
+; MiQuestData
+	ind	u32
+	ind	s8
+	ind	u8
+	ind	u16
+	ind	s32
+	ary MiQuestConditionData 8
+	ary MiQuestPhaseData 8

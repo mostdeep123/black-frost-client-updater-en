@@ -1,0 +1,47 @@
+; MiSkillItemStatusCommonData
+	ind	u32
+	; MiCategoryData
+		ind	u8
+		ind	u8
+		ind	u16
+	ind	u8
+	ind	u8
+	ind	u16
+	; MiCorrectTbl
+		list_begin MiCorrectTbl
+			mmb	u8
+			mmb	u8
+			mmb	u16
+		list_end
+; MiItemBasicData
+	ind	u32
+	ind	s32
+	ind	s32
+	ind	s32
+	ind	s16
+	ind	u8
+	ind	s8 
+	ind	u32
+MiPossessionData
+	ind	u8
+	ind	u8 
+	ind	u16
+; 
+	ind	u32
+; MiUseRestrictionsData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	list_begin MiSkillTbl
+		mmb	u32
+	list_end
+; 
+	ind	u8
+	ind	u8
+	ind	u16
+; MiItemPvPData
+	ind	s16
+	ind	u16
+; MiRentalData
+	ind	s32

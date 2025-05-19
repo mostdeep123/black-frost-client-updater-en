@@ -1,0 +1,11 @@
+; MiCStatusData
+	ind	u32
+	ary	s8 36
+	ary	s8 260
+	ind	u16
+	ind	u16
+	ind	u8
+	ind	u8
+	ind	u16
+	ary	s8 68
+	ary	s8 68

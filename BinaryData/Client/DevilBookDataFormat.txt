@@ -1,0 +1,9 @@
+; MiDevilBookData
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u16
+	ind	u8
+	ind	u8
+	ind	u32
+	ary	u8 8

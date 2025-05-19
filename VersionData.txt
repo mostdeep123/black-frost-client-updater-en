@@ -1,0 +1,14 @@
+[versions]
+title = Black Frost
+server = 38.47.176.12:10666
+tag = blackfrost
+
+title = Local Server
+server = 127.0.0.1:10666
+tag = local
+
+[blackfrost]
+webaccess.sdat
+
+[local]
+webaccess.sdat

@@ -1,0 +1,11 @@
+; MiWarpPointData
+	; ID
+	ind u32
+	ind u32
+	ind u32
+	; Pos
+	ind f32
+	ind f32
+	ind f32
+	; Name
+	ary s8 64

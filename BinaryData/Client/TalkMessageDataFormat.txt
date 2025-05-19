@@ -1,0 +1,5 @@
+; MiCTalkMessageData
+	ind	u32
+	map_begin	MiTalkMsgMap
+		mma	s8 68
+	map_end

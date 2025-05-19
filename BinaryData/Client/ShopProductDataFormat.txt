@@ -1,0 +1,6 @@
+; MiShopProductData
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32

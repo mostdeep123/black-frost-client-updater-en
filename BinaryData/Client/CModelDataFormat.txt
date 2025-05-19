@@ -1,0 +1,44 @@
+; MiCModelData
+	; MiCModelBase
+	ind	u32
+	ind	u32
+	ind	f32
+	ind	f32
+	ind	u8
+	ind	u8
+	ind	u16
+	ary s8 36
+	ary s8 36
+	ary u8 3
+	ind	u8
+	ind	u32
+	ind	u32
+	; MiCModelView
+	ind f32
+	ind f32
+	ind	s16
+	ind	s16
+	ind	s16
+	ind	s16
+	ind	s16
+	ind	s16
+	ind f32
+	ind f32
+	ind f32
+	ind f32
+	ind f32
+	ind f32
+	ind f32
+	ind f32
+map_begin	MiCModelMotionMap
+	mmb	u32
+	mmb	f32
+	mmb	u32
+	mmb	f32
+	mmb	f32
+	mmb	u8
+	mmb	u8
+	mmb	u16
+	mmb	f32
+	mmb	f32
+map_end

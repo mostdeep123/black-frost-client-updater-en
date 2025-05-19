@@ -1,0 +1,9 @@
+; MiTitleData
+	ind	u32
+	ary s8 36
+	ind s16
+	ind s16
+	ind s16
+	ind s16
+	ind s16
+	ind s16

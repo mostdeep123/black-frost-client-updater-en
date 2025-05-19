@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <patch name="customPackets">skip</patch>
+    <patch name="noWebAuth">apply</patch>
+    <patch name="updaterCheck">skip</patch>
+    <patch name="magPressersInTotal">apply</patch>
+    <patch name="compressors">apply</patch>
+	<compressors>
+		<compressor>
+			<!-- Black Apple Pressers Apple Presser -->
+			<base-id>21941</base-id>
+			<compressor-id>999939</compressor-id>
+			<compressor-value>65000</compressor-value>
+		</compressor>
+	</compressors>
+    <version>3527</version>
+</config>

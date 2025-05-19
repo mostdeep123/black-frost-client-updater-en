@@ -1,0 +1,17 @@
+; MiCTimeAttackData
+	ind	u32
+	ind	s8
+	ind	s8
+	ind u16
+	ary	s8 36
+	ary	s8 36
+	ary	s8 260
+	ary	s8 260
+	ary	s8 260
+	ary	s8 260
+	ary	s8 260
+	ary	s8 260
+	ary	s8 260
+	ary	s8 260
+	ary	s8 260
+	ary	u16 4

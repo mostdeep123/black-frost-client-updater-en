@@ -1,0 +1,17 @@
+; MiCQuestData
+	ind	s32
+	string
+	ind s8
+	ind u8
+	ind u16
+	string
+	ind	s32
+	ary	s32 2
+	string
+	string
+	string
+	string
+	string
+	string
+	string
+	string

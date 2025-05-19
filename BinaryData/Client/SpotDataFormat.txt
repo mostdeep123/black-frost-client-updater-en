@@ -1,0 +1,9 @@
+; MiSpotData
+	ind	u32
+	ind	u8
+	ind	u8
+	ind	u16
+	ary f32 3
+	ind	f32
+	ary f32 2
+	ary s32 4

@@ -1,0 +1,10 @@
+; MiCSoundData
+	ind	u32
+	ary	s8 36
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	f32
+	ind	u32
+	ind	u32

@@ -1,0 +1,6 @@
+[Setting]
+BaseURL1 = http://38.47.176.12/updater-en
+Information = http://38.47.176.12/texture.html 
+
+[Custom]
+DisableBlacklists = True

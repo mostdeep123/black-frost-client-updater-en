@@ -1,0 +1,51 @@
+; MiPCBasicData
+	ind	u32
+	ind	u8
+	ind	u8
+	ind	s8
+	ind	s8
+	ind	u8
+	ind	u8
+	ind	u16
+; MiAppearanceData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	bool
+	ind	u8
+	ind	u16
+; MiEquipmentData
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+	ind	u32
+list_begin	MiUnionTbl
+	mmb	u32
+	mmb	u32
+list_end
+list_begin	MiSkillTbl
+	mmb	u32
+list_end
+; MiPCBattleData
+	ind	u32
+	ind	u32
+	ind	u8
+	ind	u8
+	ind	u16
+	ary	s16	84

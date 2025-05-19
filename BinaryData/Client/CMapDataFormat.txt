@@ -1,0 +1,10 @@
+; MiCMapData
+	ind	u32
+	ind	f32
+	ind	f32
+	ind s8
+	ind s8
+	ind u16
+	ind	u32
+	ary MiFacilityData 16
+	ary MiZoneChangeData 8

@@ -1,0 +1,4 @@
+; MiReportTypeData
+	ind u16
+	ind u16
+	ary s8 32

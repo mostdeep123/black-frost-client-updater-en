@@ -1,0 +1,244 @@
+<objects>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">1</member>
+        <member name="unknown1">0</member>
+        <member name="unknown2">-1</member>
+        <member name="unknown3">1</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">2</member>
+        <member name="unknown1">0</member>
+        <member name="unknown2">-1</member>
+        <member name="unknown3">1</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">3</member>
+        <member name="unknown1">15</member>
+        <member name="unknown2">6</member>
+        <member name="unknown3">1</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">4</member>
+        <member name="unknown1">30</member>
+        <member name="unknown2">7</member>
+        <member name="unknown3">1</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">5</member>
+        <member name="unknown1">45</member>
+        <member name="unknown2">2</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">6</member>
+        <member name="unknown1">60</member>
+        <member name="unknown2">3</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">7</member>
+        <member name="unknown1">75</member>
+        <member name="unknown2">0</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">4</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">1</member>
+        <member name="unknown7">10</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">8</member>
+        <member name="unknown1">90</member>
+        <member name="unknown2">5</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">9</member>
+        <member name="unknown1">105</member>
+        <member name="unknown2">17</member>
+        <member name="unknown3">15</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">10</member>
+        <member name="unknown1">120</member>
+        <member name="unknown2">21</member>
+        <member name="unknown3">3</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">11</member>
+        <member name="unknown1">135</member>
+        <member name="unknown2">16</member>
+        <member name="unknown3">3</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">12</member>
+        <member name="unknown1">150</member>
+        <member name="unknown2">-1</member>
+        <member name="unknown3">1</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">1</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">13</member>
+        <member name="unknown1">160</member>
+        <member name="unknown2">79</member>
+        <member name="unknown3">-5</member>
+        <member name="unknown4">-1</member>
+        <member name="unknown5">1</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">14</member>
+        <member name="unknown1">170</member>
+        <member name="unknown2">102</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">103</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">15</member>
+        <member name="unknown1">180</member>
+        <member name="unknown2">104</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">106</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">16</member>
+        <member name="unknown1">190</member>
+        <member name="unknown2">107</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">108</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">17</member>
+        <member name="unknown1">200</member>
+        <member name="unknown2">111</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">112</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">113</member>
+        <member name="unknown7">10</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">18</member>
+        <member name="unknown1">220</member>
+        <member name="unknown2">96</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">97</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">98</member>
+        <member name="unknown7">10</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">19</member>
+        <member name="unknown1">240</member>
+        <member name="unknown2">99</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">100</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">101</member>
+        <member name="unknown7">10</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">20</member>
+        <member name="unknown1">260</member>
+        <member name="unknown2">12</member>
+        <member name="unknown3">15</member>
+        <member name="unknown4">13</member>
+        <member name="unknown5">15</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">21</member>
+        <member name="unknown1">280</member>
+        <member name="unknown2">14</member>
+        <member name="unknown3">15</member>
+        <member name="unknown4">15</member>
+        <member name="unknown5">15</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+    <object name="MiDevilBookBonusData">
+        <member name="ID">22</member>
+        <member name="unknown1">300</member>
+        <member name="unknown2">1117</member>
+        <member name="unknown3">10</member>
+        <member name="unknown4">1118</member>
+        <member name="unknown5">10</member>
+        <member name="unknown6">-1</member>
+        <member name="unknown7">1</member>
+        <member name="unknown8">0</member>
+    </object>
+</objects>

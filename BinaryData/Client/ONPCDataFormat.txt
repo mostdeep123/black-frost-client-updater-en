@@ -1,0 +1,9 @@
+; MiONPCData
+	ind	u32
+	ary	s8	36
+	ind	s16
+	ind	u16
+	ary	s8	68
+	ary	s8	68
+	ind	u32
+	ind	u32

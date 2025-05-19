@@ -1,0 +1,9 @@
+; MiDynamicMapData
+	ind	u32
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36
+	ary	s8 36

@@ -1,0 +1,123 @@
+; MiSkillItemStatusCommonData
+	ind	u32
+	; MiCategoryData
+		ind	u8
+		ind	u8
+		ind	u16
+	ind	u8
+	ind	u8
+	ind	u16
+	; MiCorrectTbl
+		list_begin MiCorrectTbl
+			mmb	u8
+			mmb	u8
+			mmb	u16
+		list_end
+; MiSkillBasicData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind u8
+	ind u32
+; MiConditionData
+	; MiRestrictionData
+		ind	u32
+		ind	u8
+		ind	u8
+		ind	u16
+	list_begin MiCostTbl
+		mmb	u8
+		mmb	u8
+		mmb	u16
+		mmb	u32
+	list_end
+	ind	u32
+	ind	s16
+	ind	u16
+; MiCastData
+	; MiCastBasicData
+		ind	u32
+		ind	u8
+		ind	u8
+		ind	u16
+	; MiCastCancelData
+		ind	bool
+		ind	bool
+		ind	u16
+		ind	u32
+; MiTargetData
+	ind	u16
+	ind	u8
+	ind	u8
+; MiDischargeData
+	ind	u32
+	ind	u32
+	ind	u32
+	ind u32
+	ind	bool
+	ind	u8
+	ind	u16
+; MiEffectiveRangeData
+	ind	u8
+	ind	u8
+	ind	u16
+	ind	s32
+	ind	s32
+; MiDamageData
+	; MiBattleDamageData
+		ind	u8
+		ind	u8
+		ind	u8
+		ind	u8
+		ind	u16
+		ind	u16
+		ind	u8
+		ind	u8
+		ind	u16
+	; MiNegotiationDamageData
+		ind	s8
+		ind	s8
+		ind	s8
+		ind	s8
+	; MiBreakData
+		ind	s8
+		ind	s8
+		ind	u16
+	; MiKnockBackData
+		ind	u8
+		ind	s8
+		ind	u16
+	; ヒットストップ時間
+	ind	u32
+	list_begin MiAddStatusTbl
+		mmb	u32
+		mmb	s8
+		mmb	s8
+		mmb	u8
+		mmb	u8
+		mmb	u16
+		mmb	u16
+	list_end
+	ind	u16
+	ind	u16
+; MiAcquisitionData
+	ind	u8
+	ind	s8
+	ind	u16
+list_begin MiExpertGrowthTbl
+	mmb	u8
+	mmb	s8
+	mmb	u16
+list_end
+; MiSkillCharasticData
+	ary s32 4
+; MiSkillSpecialParams
+	ary s32 4
+; MiSkillPvPData
+	ind	u8
+	ind	u8
+	ind	u16

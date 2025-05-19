@@ -1,0 +1,45 @@
+; MiHNPCBasicData
+	ind	u32
+	ary	s8	36
+	ind	s16
+	ind	u16
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u32
+; MiHNPCAppearanceData
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	u8
+	ind	bool
+	ind	u8
+	ind	u16
+; MiEquipmentData
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
+	ary	s8	36
